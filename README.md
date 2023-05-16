@@ -1,4 +1,9 @@
 # README
+### Software Versions
+- bundler: 2.3.16
+- ruby: 2.7.4
+- rails: 6.1.7.3
+- yarn: 1.22.18
 
 ### Run below commands for first time after cloning the repo
 
